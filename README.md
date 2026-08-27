@@ -26,7 +26,24 @@
 
 ## Screenshots
 
-> _Coming soon — deploy the app and add screenshots here._
+<table>
+  <tr>
+    <td align="center"><b>📚 Dashboard</b></td>
+    <td align="center"><b>✍️ Editor</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/dashboard.png" alt="Dashboard" width="100%"/></td>
+    <td><img src="docs/screenshots/editor.png" alt="Editor" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 Ink AI Assistant</b></td>
+    <td align="center"><b>🌍 Explore Stories</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/ink-assistant.png" alt="Ink AI Assistant" width="100%"/></td>
+    <td><img src="docs/screenshots/explore.png" alt="Explore Stories" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
