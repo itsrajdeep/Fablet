@@ -27,7 +27,7 @@ app.use(
       // Allow if exact match or if it's a Vercel preview URL for this project
       if (
         allowedOrigins.includes(origin) ||
-        /^https:\/\/fablet-.*\.vercel\.app$/.test(origin)
+        /^https:\/\/fablet(-[^.]*)?\.vercel\.app$/.test(origin)
       ) {
         return callback(null, true);
       }
